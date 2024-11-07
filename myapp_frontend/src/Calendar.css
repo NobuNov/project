@@ -1,0 +1,33 @@
+/* src/Calendar.css
+.calendar-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .day-name, .day {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    border: 1px solid #ddd;
+  }
+  
+  .day {
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .day:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .text-gray-400 {
+    color: #aaa;
+  }
+   */
